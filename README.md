@@ -1,10 +1,4 @@
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Энергос - Производство электроэнергии</title>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap" rel="stylesheet">
-    
-    <style>
+<style>
         html {
             scroll-behavior: smooth;
         }
